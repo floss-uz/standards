@@ -34,7 +34,7 @@ have around 50 members, approximately 10 active members and about 2 moderators (
 It is MUST to have a GitHub organization if the joining community is about:
 
 - a programming language
-- a techgnology that is a domain to many others
+- a technology that is a domain to many others
 - an aggregator to multiple other chat based communities
 
 Also, the member community SHOULD have a website showing representatives of the community,
