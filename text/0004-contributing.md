@@ -1,4 +1,4 @@
-- Standartization Name: Contributing to floss 
+- Standardization Name: Contributing to FLOSS 
 - Start Date: 2025-09-12
 - RFC PR: [floss-uz/standards#0004](https://github.com/floss-uz/standards/pull/4)
 - STD Issue: [floss-uz/standards#0008](https://github.com/floss-uz/standards/issues/8)
