@@ -37,6 +37,7 @@ Projects and communities belonging to the FLOSS community should implement **RUL
 [unresolved-questions]: #unresolved-questions
 
 - What is the licensing issue in AI-based projects?
+- How will AI tools be used in the code review process?
 
 # Future possibilities
 
