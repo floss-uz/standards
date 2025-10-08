@@ -30,6 +30,7 @@ FLOSS oppose relying on **AI-powered** sources to inform conversations and debat
 
 Of course, the issue of **AI-based contributions** is somewhat controversial. For this reason, the FLOSS community supports somewhat liberal positions on this issue. It should be noted that licensing issues for codes generated using AI are the responsibility of the users themselves. This means that the situation is somewhat serious, and these issues are still being widely discussed in the OSS community as a whole. For this reason, **AI-based contributions** are being made **OPTIONAL** for everyone within the FLOSS community.
 
+Projects and communities belonging to the FLOSS community should implement **RULES** and **CODE OF CONDUCT** documents that are fully consistent with or extend these two sections of the RFC. Community chairs and maintainers should modify and implement their own policies based on these, provided they do not conflict with this RFC.
 
 # Unresolved questions
 
