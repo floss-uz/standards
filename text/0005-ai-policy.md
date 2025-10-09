@@ -8,7 +8,7 @@
 
 [summary]: #summary
 
-This RFC explains the rules for using AI to FLOSS community members. RFC reflecting the use and contribution of AI tools in community conversations and AI-related issues during community member FLOSS activities. 
+This RFC explains the rules for using AI to FLOSS community members. RFC reflects the use and contribution of AI tools in community conversations and AI-related issues for FLOSS community members in their activities.
 
 # Motivation
 
