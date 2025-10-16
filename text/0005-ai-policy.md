@@ -32,6 +32,8 @@ Of course, the issue of **AI-based contributions** is somewhat controversial. Fo
 
 Projects and communities belonging to the FLOSS community should implement **RULES** and **CODE OF CONDUCT** documents that are fully consistent with or extend these two sections of the RFC. Community chairs and maintainers should modify and implement their own policies based on these, provided they do not conflict with this RFC.
 
+Project documents **created using AI** or **developed with AI** **MUST** include information about the use of  AI. This information **MUST** also be reflected in the license of projects using AI.  
+
 # Unresolved questions
 
 [unresolved-questions]: #unresolved-questions
