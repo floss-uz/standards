@@ -26,7 +26,7 @@ This issue consists of several sections and focuses on two main sections, and th
 - Using AI tools in community conversations, debates, and communication processes.
 - Using AI tools to contribute to projects within FLOSS. 
 
-FLOSS oppose relying on **AI-powered** sources to inform conversations and debates in all communities. The **FLOSS** community supports traditional methods then rejects or limits references that relies on AI. This section of the RFC rejects any references submitted based on AI. 
+FLOSS oppose relying on **AI-powered** sources to inform conversations and debates in all communities. The **FLOSS** community advocates limiting or rejecting things done with AI. This section of the RFC rejects any references submitted based on AI. 
 
 Of course, the issue of **AI-based contributions** is somewhat controversial. For this reason, the FLOSS community supports somewhat liberal positions on this issue. It should be noted that licensing violations for the submission of AI generated content (including, but not limited to source code and translation strings) is a sole responsibility of the contributer. This means that the situation is somewhat serious, and these issues are still being widely discussed in the OSS community as a whole. For this reason, **AI-based contributions** are being made **OPTIONAL** for everyone within the FLOSS community.
 
