@@ -90,9 +90,6 @@ debates, and decision-making **MUST** be promoted and conducted in public
 community chats or on GitHub to ensure transparency and allow the entire
 community to learn.
 
-- **Regular Collaborative Events (MUST):** The community **MUST** host
-regular scheduled events (online or in-person) such as:
-
 
 ## 4. Recognition and Incentives
 
