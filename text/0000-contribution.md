@@ -6,7 +6,7 @@
 # Summary
 
 This RFC proposes a standardized framework for technology-specific communities
-(e.g., Rust, NixOS, Dotnet) within FLOSS Uzbekistan to overcome stagnation
+(e.g., Rust, Xinux) within FLOSS Uzbekistan to overcome stagnation
 and increase member engagement. It mandates the implementation of clear
 contribution paths, structured onboarding processes, active support mechanisms,
 and systematic contributor recognition to transform passive groups into
