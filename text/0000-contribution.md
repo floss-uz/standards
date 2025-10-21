@@ -1,5 +1,6 @@
-- Start Date: 2023-12-18 - RFC PR: N/A - STD Issue:
-[github.com/FLOSS-uz/standards/issues/8](https://github.com/FLOSS-uz/standards/issues/8)
+- Start Date: 2023-12-18 
+- RFC PR: N/A 
+- STD Issue: [github.com/FLOSS-uz/standards/issues/8](https://github.com/FLOSS-uz/standards/issues/8)
 - Severity: MUST
 
 # Summary
