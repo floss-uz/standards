@@ -144,6 +144,81 @@ Management/Events team. | MUST | | **Issue Triage Process** | Must describe
 how issues are labeled, how long contributors should wait for a review,
 and the definition of a `Good First Issue`. |MUST |
 
+### **Detailed Structure of `CONTRIBUTING.md`**
+
+#### 1. Getting Started and Code of Conduct
+
+This section sets the tone and the mandatory prerequisites for all contributors.
+
+- **Code of Conduct (CoC) Link:** A clear, mandatory link to the community's CODE_OF_CONDUCT.md. This is non-negotiable—all contributors must agree to abide by the community's rules.
+
+- Direct link to the **Newcomer's Guide** for high-level orientation.
+
+#### 2. Code Contribution Workflow (Setup, Build, and Test)
+
+This section provides the technical roadmap required for hands-on development.
+
+- **Prerequisites:** List all required tools (e.g., specific version of the SDK/runtime, Git client).
+
+- **Local Setup:** Clear, step-by-step instructions for getting the code: How to fork the main repository on GitHub and setting upstream.
+
+- **Building the Project:**
+
+    - The exact build command(s) needed (e.g., dotnet build, cargo build, nix-build).
+
+    - Troubleshooting steps for common build errors in the local Uzbek environment.
+
+- **Testing:**
+
+    - The command(s) needed to run the entire test suite (e.g., dotnet test, cargo test).
+
+    - A mandate: All Pull Requests MUST pass all automated tests before they will be reviewed.
+
+#### 3. Style, Standards, and Submission
+
+This covers the quality and mechanics of submitting the code for review.
+
+- **Code Style and Quality:**
+
+    - Mandatory tools for automated formatting (e.g., link to the community's .editorconfig or .rustfmt.toml).
+
+    - Clear statement on required documentation for new functions and features.
+
+- **Commit and Branching Standards:**
+
+    - Define the required structure for branch names (e.g., feat/my-new-feature or bug/fix-123).
+
+    - Define the preferred commit message style (e.g., conventional commits: fix: resolve crash on startup).
+
+- **The Pull Request (PR) Submission:**
+
+    - A reminder that the contributor **MUST** fill out the entire PR template.
+
+    - Explanation of the review process, including the expected initial response time and guidance on how to respond constructively to feedback.
+
+#### 4. Non-Code Contribution Paths
+
+This critical section formalizes the diverse contribution avenues to meet the FLOSS Uzbekistan standard.
+
+- **Documentation and Translation:**
+
+    - **Process:** Specify the branch or directory where documentation contributions should be submitted (e.g., PRs to the docs/uz folder).
+
+    - **Translation:** if applicable, list all the documents that need to be translated into Uzbek.
+    
+
+#### 5. Licensing Information (Legal Mandate)
+
+This section ensures legal transparency and compliance with FLOSS principles.
+
+- **Licensing Terms (MUST):**
+
+    - Explicitly state the project's **license** (e.g., MIT, GPLv3, etc.).
+
+    - **MUST INCLUDE:** A statement that by submitting a Pull Request, the contributor agrees to license their work under the project's specified license.
+
+    - Link to the full `LICENSE` file.
+
 ### 5.3. Project Showcase and Curation (AWESOME_LIST.md)
 
 To fulfill the Local Resource Curation mandate, a dedicated document must
