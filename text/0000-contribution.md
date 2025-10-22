@@ -109,6 +109,71 @@ system for formal acknowledgment, such as:
     - **Gamification:** Small, monetary or non-monetary incentives or public
     leaderboards for answering questions or completing specific tasks.
 
+## 5. Mandatory Documentation Requirements
+
+To ensure all requirements of this standard are transparent, accessible, and
+structured for easy onboarding, every technology-specific community **MUST**
+implement and maintain the following core set of documents in their main
+organizational repository or a dedicated standards repository.
+
+### 5.1. The Newcomer's Guide (Dedicated Document)
+
+The **Newcomer's Guide** is a dedicated, high-level document designed to be
+the single entry point for all individuals joining the community. It **MUST**
+be highly visible and easily accessible from the main chat and the GitHub
+organization homepage.
+
+| Requirement | Purpose | Status | | --- | --- | --- | | **Document Location**
+| Must be a standalone file or a dedicated page on the community website. |
+MUST | | **Content** | Must include: a clear overview of the technology's
+relevance in Uzbekistan, the community's mission and culture, a complete list
+of communication platforms (Telegram, GitHub)and the **"Easy First Tasks"**
+list. | MUST | | **Language** | Must be primarily written in Uzbek. |MUST |
+
+### 5.2. The Contribution Guide (CONTRIBUTING.md)
+
+The standard GitHub CONTRIBUTING.md file must be expanded to explicitly
+cover the diverse contribution paths mandated by this RFC.
+
+| Requirement | Purpose | Status | | --- | --- | --- | | **Coding Standards**
+| Must outline coding style, testing requirements, and the process for
+submitting a Pull Request (PR) to the local community project(s). | MUST |
+| **Non-Code Paths** | Must dedicate clear sections detailing the process
+for submitting: Translations, Tutorials/Content, and how to join a Community
+Management/Events team. | MUST | | **Issue Triage Process** | Must describe
+how issues are labeled, how long contributors should wait for a review,
+and the definition of a `Good First Issue`. |MUST |
+
+### 5.3. Project Showcase and Curation (AWESOME_LIST.md)
+
+To fulfill the Local Resource Curation mandate, a dedicated document must
+be maintained.
+
+| Requirement | Purpose | Status | | --- | --- | --- | | **Document Location**
+| Must be a standalone list (e.g., `AWESOME_RUST_UZ.md`) in the main
+organizational repository. | MUST | | **Content** | Must be a categorized
+list of locally-relevant open-source projects using the community's core
+technology, along with contact information or contribution links for each. |
+MUST | | **Maintenance** | Must specify a leader or team responsible for
+regularly updating the curated list by finding new open-source projects and
+verifying that the project is still active. | MUST |
+
+
+
+### 5.4 Documentation for Recognition and Support
+
+To ensure transparency regarding incentives and acknowledgment, these
+processes must be formalized.
+
+| Requirement | Purpose | Status | | --- | --- | --- | | **Contributor
+List** | Must maintain an up-to-date `CONTRIBUTORS.md` file, or use a
+tool to automatically generate a list, acknowledging all individuals who
+have made a recognized contribution (code, docs, or community help)." |
+MUST | | **Recognition System Rules** | If a **Recognition System**
+(Badges/Gamification) is implemented (SHOULD), the rules, points system, and
+rewards (if any) **MUST** be clearly documented in a public location. | MUST |
+
+
 # Guide-level explanation
 
 To revitalize your community:
