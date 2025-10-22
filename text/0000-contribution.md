@@ -123,16 +123,16 @@ the single entry point for all individuals joining the community. It **MUST**
 be highly visible and easily accessible from the main chat and the GitHub
 organization homepage.
 
+| Requirement | Purpose | Status | 
+| --- | --- | --- | 
+| **Document Location** | Must be a standalone file or a dedicated page on the community website. | MUST | 
+| **Content** | Must include: a clear overview of the technology's relevance in Uzbekistan, the community's mission and culture, a complete list of communication platforms (Telegram, GitHub)and the **"Easy First Tasks"** list. | MUST | 
+| **Language** | Must be primarily written in Uzbek. |MUST |
+
 ### 5.2. The Contribution Guide (CONTRIBUTING.md)
 
 The standard GitHub CONTRIBUTING.md file must be expanded to explicitly
 cover the diverse contribution paths mandated by this RFC.
-
-| Requirement | Purpose | Status | 
-| --- | --- | --- | 
-| **Coding Standards** | Must outline coding style, testing requirements, and the process for submitting a Pull Request (PR) to the local community project(s). | MUST |
-| **Non-Code Paths** | Must dedicate clear sections detailing the process for submitting: Translations, Tutorials/Content, and how to join a Community Management/Events team. | MUST | 
-| **Issue Triage Process** | Must describe how issues are labeled, how long contributors should wait for a review, and the definition of a `Good First Issue`. |MUST |
 
 ### **Detailed Structure of `CONTRIBUTING.md`**
 
