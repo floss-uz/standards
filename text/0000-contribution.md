@@ -6,11 +6,11 @@
 # Summary
 
 This RFC proposes a standardized framework for technology-specific communities
-(e.g., Rust, Xinux) within FLOSS Uzbekistan to overcome stagnation
-and increase member engagement. It mandates the implementation of clear
-contribution paths, structured onboarding processes, active support mechanisms,
-and systematic contributor recognition to transform passive groups into
-active, collaborative hubs.
+(e.g., Rust, Xinux) within FLOSS Uzbekistan to overcome stagnation and increase
+member engagement. It mandates the implementation of clear contribution
+paths, structured onboarding processes, active support mechanisms, and
+systematic contributor recognition to transform passive groups into active,
+collaborative hubs.
 
 # Motivation
 
@@ -123,34 +123,33 @@ the single entry point for all individuals joining the community. It **MUST**
 be highly visible and easily accessible from the main chat and the GitHub
 organization homepage.
 
-| Requirement | Purpose | Status | | --- | --- | --- | | **Document Location**
-| Must be a standalone file or a dedicated page on the community website. |
-MUST | | **Content** | Must include: a clear overview of the technology's
-relevance in Uzbekistan, the community's mission and culture, a complete list
-of communication platforms (Telegram, GitHub)and the **"Easy First Tasks"**
-list. | MUST | | **Language** | Must be primarily written in Uzbek. |MUST |
+| Requirement | Purpose | Status | 
+| --- | --- | --- | 
+| **Document Location** | Must be a standalone file or a dedicated page on the community website. | MUST | 
+| **Content** | Must include: a clear overview of the technology's relevance in Uzbekistan, the community's mission and culture, a complete list of communication platforms (Telegram, GitHub)and the **"Easy First Tasks"** list. | MUST | 
+| **Language** | Must be primarily written in Uzbek. |MUST |
 
 ### 5.2. The Contribution Guide (CONTRIBUTING.md)
 
 The standard GitHub CONTRIBUTING.md file must be expanded to explicitly
 cover the diverse contribution paths mandated by this RFC.
 
-| Requirement | Purpose | Status | | --- | --- | --- | | **Coding Standards**
-| Must outline coding style, testing requirements, and the process for
-submitting a Pull Request (PR) to the local community project(s). | MUST |
-| **Non-Code Paths** | Must dedicate clear sections detailing the process
-for submitting: Translations, Tutorials/Content, and how to join a Community
-Management/Events team. | MUST | | **Issue Triage Process** | Must describe
-how issues are labeled, how long contributors should wait for a review,
-and the definition of a `Good First Issue`. |MUST |
+| Requirement | Purpose | Status | 
+| --- | --- | --- | 
+| **Coding Standards** | Must outline coding style, testing requirements, and the process for submitting a Pull Request (PR) to the local community project(s). | MUST |
+| **Non-Code Paths** | Must dedicate clear sections detailing the process for submitting: Translations, Tutorials/Content, and how to join a Community Management/Events team. | MUST | 
+| **Issue Triage Process** | Must describe how issues are labeled, how long contributors should wait for a review, and the definition of a `Good First Issue`. |MUST |
 
 ### **Detailed Structure of `CONTRIBUTING.md`**
 
 #### 1. Getting Started and Code of Conduct
 
-This section sets the tone and the mandatory prerequisites for all contributors.
+This section sets the tone and the mandatory prerequisites for all
+contributors.
 
-- **Code of Conduct (CoC) Link:** A clear, mandatory link to the community's CODE_OF_CONDUCT.md. This is non-negotiable—all contributors must agree to abide by the community's rules.
+- **Code of Conduct (CoC) Link:** A clear, mandatory link to the community's
+CODE_OF_CONDUCT.md. This is non-negotiable—all contributors must agree to
+abide by the community's rules.
 
 - Direct link to the **Newcomer's Guide** for high-level orientation.
 
@@ -158,21 +157,27 @@ This section sets the tone and the mandatory prerequisites for all contributors.
 
 This section provides the technical roadmap required for hands-on development.
 
-- **Prerequisites:** List all required tools (e.g., specific version of the SDK/runtime, Git client).
+- **Prerequisites:** List all required tools (e.g., specific version of the
+SDK/runtime, Git client).
 
-- **Local Setup:** Clear, step-by-step instructions for getting the code: How to fork the main repository on GitHub and setting upstream.
+- **Local Setup:** Clear, step-by-step instructions for getting the code:
+How to fork the main repository on GitHub and setting upstream.
 
 - **Building the Project:**
 
-    - The exact build command(s) needed (e.g., dotnet build, cargo build, nix-build).
+    - The exact build command(s) needed (e.g., dotnet build, cargo build,
+    nix-build).
 
-    - Troubleshooting steps for common build errors in the local Uzbek environment.
+    - Troubleshooting steps for common build errors in the local Uzbek
+    environment.
 
 - **Testing:**
 
-    - The command(s) needed to run the entire test suite (e.g., dotnet test, cargo test).
+    - The command(s) needed to run the entire test suite (e.g., dotnet test,
+    cargo test).
 
-    - A mandate: All Pull Requests MUST pass all automated tests before they will be reviewed.
+    - A mandate: All Pull Requests MUST pass all automated tests before they
+    will be reviewed.
 
 #### 3. Style, Standards, and Submission
 
@@ -180,32 +185,39 @@ This covers the quality and mechanics of submitting the code for review.
 
 - **Code Style and Quality:**
 
-    - Mandatory tools for automated formatting (e.g., link to the community's .editorconfig or .rustfmt.toml).
+    - Mandatory tools for automated formatting (e.g., link to the community's
+    .editorconfig or .rustfmt.toml).
 
     - Clear statement on required documentation for new functions and features.
 
 - **Commit and Branching Standards:**
 
-    - Define the required structure for branch names (e.g., feat/my-new-feature or bug/fix-123).
+    - Define the required structure for branch names (e.g., feat/my-new-feature
+    or bug/fix-123).
 
-    - Define the preferred commit message style (e.g., conventional commits: fix: resolve crash on startup).
+    - Define the preferred commit message style (e.g., conventional commits:
+    fix: resolve crash on startup).
 
 - **The Pull Request (PR) Submission:**
 
     - A reminder that the contributor **MUST** fill out the entire PR template.
 
-    - Explanation of the review process, including the expected initial response time and guidance on how to respond constructively to feedback.
+    - Explanation of the review process, including the expected initial
+    response time and guidance on how to respond constructively to feedback.
 
 #### 4. Non-Code Contribution Paths
 
-This critical section formalizes the diverse contribution avenues to meet the FLOSS Uzbekistan standard.
+This critical section formalizes the diverse contribution avenues to meet
+the FLOSS Uzbekistan standard.
 
 - **Documentation and Translation:**
 
-    - **Process:** Specify the branch or directory where documentation contributions should be submitted (e.g., PRs to the docs/uz folder).
+    - **Process:** Specify the branch or directory where documentation
+    contributions should be submitted (e.g., PRs to the docs/uz folder).
 
-    - **Translation:** if applicable, list all the documents that need to be translated into Uzbek.
-    
+    - **Translation:** if applicable, list all the documents that need to
+    be translated into Uzbek.
+
 
 #### 5. Licensing Information (Legal Mandate)
 
@@ -215,7 +227,9 @@ This section ensures legal transparency and compliance with FLOSS principles.
 
     - Explicitly state the project's **license** (e.g., MIT, GPLv3, etc.).
 
-    - **MUST INCLUDE:** A statement that by submitting a Pull Request, the contributor agrees to license their work under the project's specified license.
+    - **MUST INCLUDE:** A statement that by submitting a Pull Request, the
+    contributor agrees to license their work under the project's specified
+    license.
 
     - Link to the full `LICENSE` file.
 
@@ -224,14 +238,11 @@ This section ensures legal transparency and compliance with FLOSS principles.
 To fulfill the Local Resource Curation mandate, a dedicated document must
 be maintained.
 
-| Requirement | Purpose | Status | | --- | --- | --- | | **Document Location**
-| Must be a standalone list (e.g., `AWESOME_RUST_UZ.md`) in the main
-organizational repository. | MUST | | **Content** | Must be a categorized
-list of locally-relevant open-source projects using the community's core
-technology, along with contact information or contribution links for each. |
-MUST | | **Maintenance** | Must specify a leader or team responsible for
-regularly updating the curated list by finding new open-source projects and
-verifying that the project is still active. | MUST |
+| Requirement | Purpose | Status | 
+| --- | --- | --- | 
+| **Document Location** | Must be a standalone list (e.g., `AWESOME_RUST_UZ.md`) in the main organizational repository. | MUST | 
+| **Content** | Must be a categorized list of locally-relevant open-source projects using the community's core technology, along with contact information or contribution links for each. | MUST | 
+| **Maintenance** | Must specify a leader or team responsible for regularly updating the curated list by finding new open-source projects and verifying that the project is still active. | MUST |
 
 
 
@@ -240,13 +251,10 @@ verifying that the project is still active. | MUST |
 To ensure transparency regarding incentives and acknowledgment, these
 processes must be formalized.
 
-| Requirement | Purpose | Status | | --- | --- | --- | | **Contributor
-List** | Must maintain an up-to-date `CONTRIBUTORS.md` file, or use a
-tool to automatically generate a list, acknowledging all individuals who
-have made a recognized contribution (code, docs, or community help)." |
-MUST | | **Recognition System Rules** | If a **Recognition System**
-(Badges/Gamification) is implemented (SHOULD), the rules, points system, and
-rewards (if any) **MUST** be clearly documented in a public location. | MUST |
+| Requirement | Purpose | Status | 
+| --- | --- | --- | 
+| **Contributor List** | Must maintain an up-to-date `CONTRIBUTORS.md` file, or use a tool to automatically generate a list, acknowledging all individuals who have made a recognized contribution (code, docs, or community help)." | MUST | 
+| **Recognition System Rules** | If a **Recognition System** (Badges/Gamification) is implemented (SHOULD), the rules, points system, and rewards (if any) **MUST** be clearly documented in a public location. | MUST |
 
 
 # Guide-level explanation
