@@ -136,7 +136,7 @@ cover the diverse contribution paths mandated by this RFC.
 
 ### **Detailed Structure of `CONTRIBUTING.md`**
 
-#### 1. Getting Started and Code of Conduct
+#### i. Getting Started and Code of Conduct
 
 This section sets the tone and the mandatory prerequisites for all
 contributors.
@@ -147,7 +147,7 @@ abide by the community's rules.
 
 - Direct link to the **Newcomer's Guide** for high-level orientation.
 
-#### 2. Code Contribution Workflow (Setup, Build, and Test)
+#### ii. Code Contribution Workflow (Setup, Build, and Test)
 
 This section provides the technical roadmap required for hands-on development.
 
@@ -173,7 +173,7 @@ How to fork the main repository on GitHub and setting upstream.
     - A mandate: All Pull Requests MUST pass all automated tests before they
     will be reviewed.
 
-#### 3. Style, Standards, and Submission
+#### ii. Style, Standards, and Submission
 
 This covers the quality and mechanics of submitting the code for review.
 
@@ -199,7 +199,7 @@ This covers the quality and mechanics of submitting the code for review.
     - Explanation of the review process, including the expected initial
     response time and guidance on how to respond constructively to feedback.
 
-#### 4. Non-Code Contribution Paths
+#### iv. Non-Code Contribution Paths
 
 This critical section formalizes the diverse contribution avenues to meet
 the FLOSS Uzbekistan standard.
@@ -213,7 +213,7 @@ the FLOSS Uzbekistan standard.
     be translated into Uzbek.
 
 
-#### 5. Licensing Information (Legal Mandate)
+#### v. Licensing Information (Legal Mandate)
 
 This section ensures legal transparency and compliance with FLOSS principles.
 
