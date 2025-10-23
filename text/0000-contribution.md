@@ -250,6 +250,105 @@ processes must be formalized.
 | **Contributor List** | Must maintain an up-to-date `CONTRIBUTORS.md` file, or use a tool to automatically generate a list, acknowledging all individuals who have made a recognized contribution (code, docs, or community help)." | MUST | 
 | **Recognition System Rules** | If a **Recognition System** (Badges/Gamification) is implemented (SHOULD), the rules, points system, and rewards (if any) **MUST** be clearly documented in a public location. | MUST |
 
+### 5.5 Code of Conduct
+
+The Code of Conduct must consist of four primary components: The Statement,
+The Standards, The Scope, and The Enforcement Process.
+
+1. **The Statement and Scope**
+
+    This section sets the purpose and explicitly defines where and to whom
+    the CoC applies.
+
+    - **Preamble/Statement of Purpose (MUST):** A clear, concise statement
+    explaining why the community needs a CoC. The purpose is to foster
+    a respectful, harassment-free experience for everyone, regardless of
+    background.
+
+    - **Scope (MUST):** Explicitly list where the CoC is in effect. This
+    must cover all official community spaces:
+
+        - GitHub repositories and issue trackers.
+
+        - Primary communication channels (e.g., Telegram, Matrix).
+
+        - Community events (online and in-person meetups, workshops).
+
+    - **Applicable Parties (MUST):** State clearly that the CoC applies to
+    everyone participating in the community, including:
+
+        - Contributors and users.
+
+        - Project Maintainers and the Community Chair.
+
+        - Event organizers and sponsors.
+
+2. **Behavioral Standards (The Rules)**
+
+    This section defines the expected positive behaviors and explicitly
+    lists the unacceptable behaviors.
+
+    - **Expected Behavior (MUST):** Emphasize positive actions, such as:
+
+        - Being considerate, respectful, and collaborative.
+
+        - Welcoming newcomers and being patient with those who are learning.
+
+        - Accepting constructive criticism and delivering feedback politely.
+
+        - Focusing on the technical problem, not the person.
+
+    - **Unacceptable Behavior (MUST):** List specific actions that constitute
+    harassment, including, but not limited to:
+
+        - Offensive Comments related to gender, sexual orientation, disability,
+        physical appearance, race, or religion.
+
+        - Unwelcome Sexual Attention or conduct.
+
+        - Intimidation, Stalking, or Trolling (especially in public channels).
+
+        - Sustained Disruption of discussions or events.
+
+        - Unsolicited sharing of private information (doxxing).
+
+3. **Reporting and Enforcement**
+
+    This is the most critical section; an unenforceable CoC is useless. This
+    process must be clear, simple, and prioritize the reporter's safety.
+
+    - **Designated Contact (MUST):** Clearly state who is responsible for
+    receiving reports. This should be a small, trusted CoC Response Team
+    (usually the Community Chair and one or two Maintainers). Provide multiple,
+    private contact methods, such as:
+
+        - A dedicated, private email address (e.g., coc@floss.uz).
+
+        - A direct contact handle (e.g., Telegram ID) of one trusted team
+        member.
+
+    - **The Reporting Process (MUST):** Detail the steps a reporter
+    should take, assuring them that reports will be handled privately and
+    confidentially. The process should specify what information is needed
+    (date, time, location, involved parties, what happened).
+
+    - **Confidentiality (MUST):** Provide a strong statement assuring the
+    reporter that their identity will be kept confidential from the public
+    and from the accused party unless absolutely necessary for investigation
+    or disclosure is explicitly requested by the reporter.
+
+    - **Enforcement Actions (MUST):** Provide a clear list of potential
+    consequences for violations, ranging from low-severity to high-severity:
+
+        - A private written warning.
+
+        - A temporary ban (mute) from community spaces.
+
+        - A permanent ban from the community.
+
+        - Note: Actions should be taken only after investigation and
+        deliberation by the Response Team.
+
 
 # Guide-level explanation
 
