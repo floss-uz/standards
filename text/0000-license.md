@@ -52,6 +52,14 @@ are accepted only under the terms of the GPLv3.
 - **License File (MUST):** Every repository **MUST** include a copy of the
 `LICENSE` file containing the full text of the GPLv3.
 
+# Copyright and Enforcement
+
+FLOSS Uzbekistan asserts and holds the **full copyright** for all software projects under its umbrella.
+
+FLOSS Uzbekistan is committed to actively monitoring for violations of the GPLv3 terms. As the copyright holder, FLOSS Uzbekistan reserves the right to **monitor and enforce** the GPLv3 license to ensure that all recipients and distributors of the software comply with the reciprocal obligations of the license.
+
+Enforcement efforts will be primarily focused on achieving **compliance**—requiring violators to publicly release the complete and corresponding source code for any distributed software based on or linked to FLOSS Uzbekistan projects.
+
 # Benefits of Non-Permissive (Copyleft) Licensing over Permissive Licensing
 
 The adoption of a non-permissive license like GPLv3, as opposed to permissive
