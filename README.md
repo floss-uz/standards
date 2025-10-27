@@ -1,6 +1,6 @@
-# Floss Uzbekistan RFCs - [RFC Book](https://std.floss.uz/)
+# FLOSS Uzbekistan RFCs - [RFC Book](https://std.floss.uz/)
 
-[Floss RFCs]: #floss-rfcs
+[FLOSS RFCs]: #floss-rfcs
 
 The "RFC" (request for comments) process is intended to provide a
 consistent and controlled path for new features to enter the project
@@ -11,7 +11,7 @@ Many changes, including typo fixes and documentation improvements can be
 implemented and reviewed via the normal GitHub pull request workflow.
 
 Some changes though are "substantial", and we ask that these be put
-through a bit of a design process and produce a consensus among the Floss
+through a bit of a design process and produce a consensus among the FLOSS
 Uzbekistan community and the [core team].
 
 ## Table of Contents
@@ -37,7 +37,7 @@ Uzbekistan community and the [core team].
 [When you need to follow this process]: #when-you-need-to-follow-this-process
 
 You need to follow this process if you intend to make "substantial"
-changes to the Floss Uzebkistan distribution. What constitutes a "substantial"
+changes to the FLOSS Uzebkistan distribution. What constitutes a "substantial"
 change is evolving based on community norms, but may include the following.
 
 - Any semantic or syntactic change to the standards.
