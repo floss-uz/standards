@@ -30,7 +30,7 @@ the intellectual effort invested by Uzbek developers collectively benefits
 the entire FLOSS Uzbekistan network, thereby accelerating the growth and
 maturity of the local open-source space.
 
-# Detailed design
+# I. Detailed design
 
 All technology-specific communities (e.g., Rust, Haskell, NixOS communities)
 within FLOSS Uzbekistan **MUST** adhere to the following licensing mandates:
@@ -52,7 +52,7 @@ are accepted only under the terms of the GPLv3.
 - **License File (MUST):** Every repository **MUST** include a copy of the
 `LICENSE` file containing the full text of the GPLv3.
 
-# Copyright and Enforcement
+# II. Copyright and Enforcement
 
 FLOSS Uzbekistan asserts and holds the **full copyright** for all software
 projects under its umbrella.
@@ -68,7 +68,7 @@ Enforcement efforts will be primarily focused on achieving
 corresponding source code for any distributed software based on or linked to
 FLOSS Uzbekistan projects.
 
-# Benefits of Non-Permissive (Copyleft) Licensing over Permissive Licensing
+# III. Benefits of Non-Permissive (Copyleft) Licensing over Permissive Licensing
 
 The adoption of a non-permissive license like GPLv3, as opposed to permissive
 licenses (like MIT, BSD, or Apache 2.0), provides substantial benefits for
@@ -106,6 +106,33 @@ a community-driven ecosystem like FLOSS Uzbekistan:
     the community** by ensuring that the fundamental open-source principles
     of access, study, modification, and redistribution are maintained for
     every user, permanently.
+
+# IV. Policy on Boarded External Projects
+
+This section defines the policy for projects that were created outside the
+FLOSS Uzbekistan network but are later adopted or formally recognized by a
+member community.
+
+- **License Retention (MUST):** Any existing, previously released software
+project "boarded" (adopted or officially recognized) into the FLOSS Uzbekistan
+network MUST retain its **Original License**. The requirement to relicense to
+GPLv3 (as detailed in Section III) does not apply to projects with external
+historical licensing.
+
+- **Maintenance under Original License (MUST):** All future contributions and
+maintenance work performed by FLOSS Uzbekistan members on a boarded project
+**MUST** continue under the terms of the project's Original License.
+
+- **New Components (SHOULD):** Any substantial _new_ module, library, or
+feature developed entirely from scratch by the FLOSS Uzbekistan community
+specifically for the boarded project **SHOULD** be licensed under GPLv3,
+provided this is legally compatible with the Original License. This must be
+clearly documented in a separate `LICENSE` file for that module.
+
+- **Documentation Clarification (MUST):** The `README.md` and `CONTRIBUTING.md`
+for boarded projects **MUST** clearly state the project's Original License and
+explicitly mention that the GPLv3 mandate for boarded projects does
+**not** apply.
 
 # Guide-level explanation
 
