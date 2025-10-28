@@ -124,9 +124,9 @@ maintenance work performed by FLOSS Uzbekistan members on a boarded project
 **MUST** be licensed under GPLv3, given that the original project is compatible
 with GPLv3. 
 
-- **New Components (SHOULD):** Any substantial _new_ module, library, or
+- **New Components (MUST):** Any substantial _new_ module, library, or
 feature developed entirely from scratch by the FLOSS Uzbekistan community
-specifically for the boarded project **SHOULD** be licensed under GPLv3,
+specifically for the boarded project **MUST** be licensed under GPLv3,
 provided this is legally compatible with the Original License. This must be
 clearly documented in a separate `LICENSE` file for that module.
 
