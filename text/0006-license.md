@@ -119,9 +119,10 @@ network MUST retain its **Original License**. The requirement to relicense to
 GPLv3 (as detailed in Section III) does not apply to projects with external
 historical licensing.
 
-- **Maintenance under Original License (MUST):** All future contributions and
+- **Maintaining the project under GPLv3 (MUST):** All future contributions and
 maintenance work performed by FLOSS Uzbekistan members on a boarded project
-**MUST** continue under the terms of the project's Original License.
+**MUST** be licensed under GPLv3, given that the original project is compatible
+with GPLv3. 
 
 - **New Components (SHOULD):** Any substantial _new_ module, library, or
 feature developed entirely from scratch by the FLOSS Uzbekistan community
