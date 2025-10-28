@@ -1,5 +1,6 @@
-- Start Date: 2025-10-27
-- RFC PR: N/A
+- Standardization name: Mandatory GPLv3 Licensing for FLOSS Uzbekistan Projects
+- Start Date: 2025-10-28
+- RFC PR: [floss-uz/standards#0016](https://github.com/floss-uz/standards/pull/16)
 - STD Issue: N/A
 - Severity: MUST
 
