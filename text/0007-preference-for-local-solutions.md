@@ -1,5 +1,5 @@
-- Start Date: 2025-10-28
-- RFC PR: N/A
+- Start Date: 2025-10-30
+- RFC PR: [floss-uz/standards#0017](https://github.com/floss-uz/standards/pull/17)
 - STD Issue: N/A
 - Severity: MUST
 
